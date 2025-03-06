@@ -65,9 +65,8 @@ public class App {
                 calculator.clearResult();
                 System.out.println("최근 결과가 초기화되었습니다 / 현재 결과: " + calculator.getLastResults());
             }
-            }
         }
-
+    }
 
     }
 
